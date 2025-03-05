@@ -1,12 +1,19 @@
-# 南区 | 趋于科技 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+# 南区 | 趋于科技
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F723&random=false&width=435&lines=%E4%B8%80%E4%B8%AA%E5%BC%BA%E5%A4%A7%E7%9A%84+Telegram+%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91%E8%80%85;%E8%B6%8B%E4%BA%8E%E7%A7%91%E6%8A%80%E6%89%80%E6%9C%89%E4%BA%A7%E5%93%81%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB%E4%B8%AD%E5%BF%83;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E9%BB%91%E5%AE%A2%E4%B8%96%E7%95%8C)](https://git.io/typing-svg)
+```
+██████╗ ██╗████████╗ █████╗  █████╗ ██╗  ██╗ █████╗ 
+██╔════╝ ██║╚══██╔══╝██╔══██╗██╔══██╗██║  ██║██╔══██╗
+██║  ███╗██║   ██║   ╚█████╔╝╚█████╔╝███████║╚█████╔╝
+██║   ██║██║   ██║   ██╔══██╗██╔══██╗██╔══██║██╔══██╗
+╚██████╔╝██║   ██║   ╚█████╔╝╚█████╔╝██║  ██║╚█████╔╝
+ ╚═════╝ ╚═╝   ╚═╝    ╚════╝  ╚════╝ ╚═╝  ╚═╝ ╚════╝ 
+```
 
-<div align="center">
-  <img src="https://github.com/git88848/git88848/raw/main/assets/matrix.gif" alt="黑客矩阵" width="800" height="300">
-</div>
+> "一个强大的 Telegram 工具开发者 | 趋于科技所有产品免费分享中心"
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 关于我
+---
+
+## 关于我
 
 ```python
 #!/usr/bin/python
@@ -28,67 +35,103 @@ me = Developer()
 me.say_hi()
 ```
 
-## 🔧 技术与工具
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
-  <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP" />
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=Telegram" />
-</div>
+## 技术栈
 
-## 📊 GitHub 统计
+```
+┌───────────────────────────────────────────────┐
+│                                               │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PYTHON ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   │
+│                                               │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ PHP ▓▓▓▓▓▓▓▓▓             │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             │
+│                                               │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                     │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ MYSQL ▓▓▓                  │
+│   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                     │
+│                                               │
+└───────────────────────────────────────────────┘
+```
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=git88848&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git88848&layout=compact&langs_count=7&theme=radical"/>
-</div>
+---
 
-## 🚀 我的项目
+## 我的项目
 
-<div align="center">
-  <a href="https://github.com/git88848/QYTMRT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git88848&repo=QYTMRT&theme=radical" />
-  </a>
-  <a href="https://github.com/git88848/QUYU-TG-Exporter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git88848&repo=QUYU-TG-Exporter&theme=radical" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/git88848/Projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git88848&repo=Projects&theme=radical" />
-  </a>
-  <a href="https://github.com/git88848/Docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git88848&repo=Docs&theme=radical" />
-  </a>
-</div>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  [01] QYTMRT                                                        │
+│  ├── 一个强大的 Telegram 用户举报自动化工具                         │
+│  └── 技术栈: Python                                                 │
+│                                                                     │
+│  [02] QUYU-TG-Exporter                                              │
+│  ├── 一款简单易用的 Telegram 数据导出工具                           │
+│  └── 技术栈: Python                                                 │
+│                                                                     │
+│  [03] Projects                                                      │
+│  ├── 趋于科技所有网络上收集的产品免费分享中心                       │
+│  └── 技术栈: 多种技术                                               │
+│                                                                     │
+│  [04] Docs                                                          │
+│  ├── 趋于科技所有收费产品文档中心                                   │
+│  └── 技术栈: Markdown, HTML                                         │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-## 📫 联系我
+---
 
-<div align="center">
-  <a href="https://t.me/Lawofforce" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
-  </a>
-</div>
+## 联系方式
 
-<div align="center">
-  <img src="https://github.com/git88848/git88848/raw/main/assets/hacker_terminal.gif" alt="黑客终端" width="800">
-</div>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│     ████████╗███████╗██╗     ███████╗ ██████╗ ██████╗  █████╗ ███╗ │
+│     ╚══██╔══╝██╔════╝██║     ██╔════╝██╔════╝ ██╔══██╗██╔══██╗████╗│
+│        ██║   █████╗  ██║     █████╗  ██║  ███╗██████╔╝███████║██╔██│
+│        ██║   ██╔══╝  ██║     ██╔══╝  ██║   ██║██╔══██╗██╔══██║██║╚█│
+│        ██║   ███████╗███████╗███████╗╚██████╔╝██║  ██║██║  ██║██║ █│
+│        ╚═╝   ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚│
+│                                                                     │
+│                    https://t.me/Lawofforce                          │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-## 🔥 贡献图表
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git88848&theme=radical" alt="git88848" />
-</div>
+## 黑客矩阵
 
-<div align="center">
-  
-  ![访问者计数器](https://profile-counter.glitch.me/git88848/count.svg)
-  
-  ### 欢迎来到我的黑客世界！
-  
-  <img src="https://raw.githubusercontent.com/git88848/git88848/main/assets/footer.svg" alt="页脚" width="800">
-</div>
+```
+01010011 01101111 01110101 01110100 01101000 00100000 01000100 01101001 01110011 01110100 01110010 01101001 01100011 01110100 
+01010100 01100101 01101100 01100101 01100111 01110010 01100001 01101101 00100000 01010100 01101111 01101111 01101100 01110011 
+01010000 01111001 01110100 01101000 01101111 01101110 00100000 01010000 01001000 01010000 00100000 01001101 01111001 01010011 
+01010001 01001100 00100000 01000100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010 00100000 01010001 
+01011001 01010100 01001101 01010010 01010100 00100000 01010000 01110010 01101111 01101010 01100101 01100011 01110100 01110011
+```
+
+---
+
+```
+ _______ _    _ ______   __     _______ _    _    _____  _____ _______ _____  _____ _____ _______ 
+|__   __| |  | |  ____| /\ \   / /_   _| |  | |  |  __ \|_   _|__   __|  __ \|_   _/ ____|__   __|
+   | |  | |__| | |__   |  \ \_/ /  | | | |  | |  | |  | | | |    | |  | |__) | | || |       | |   
+   | |  |  __  |  __|  |   \   /   | | | |  | |  | |  | | | |    | |  |  _  /  | || |       | |   
+   | |  | |  | | |____ |    | |   _| |_| |__| |  | |__| |_| |_   | |  | | \ \ _| || |____   | |   
+   |_|  |_|  |_|______||    |_|  |_____|____/   |_____/|_____|  |_|  |_|  \_\_____\_____|  |_|   
+```
+
+---
+
+### 访问计数
+```
+[██████████████████████████████] 100%
+```
+
+---
+
+### 欢迎来到我的黑客世界！
