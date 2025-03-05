@@ -31,7 +31,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=git88848&theme=flat&column=6&margin-w=10&no-frame=true&locale=cn" width="100%"/>
 
-## 📚 所有仓库项目
+## 📚 我的GitHub存储库项目
 
 <table>
   <tr>
@@ -42,42 +42,22 @@
   <tr>
     <td><a href="https://github.com/git88848/QYTMRT">QYTMRT</a></td>
     <td>Python</td>
-    <td>Telegram 用户举报自动化工具</td>
+    <td>一个强大的 Telegram 用户举报自动化工具</td>
   </tr>
   <tr>
     <td><a href="https://github.com/git88848/QUYU-TG-Exporter">QUYU-TG-Exporter</a></td>
     <td>Python</td>
-    <td>Telegram 数据导出工具</td>
+    <td>一款简单易用的 Telegram 数据导出工具，支持导出联系人、群组、频道和机器人信息。</td>
   </tr>
   <tr>
     <td><a href="https://github.com/git88848/Projects">Projects</a></td>
-    <td>多种技术</td>
-    <td>趋于科技产品免费分享中心</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/git88848/TG-Group-Manager">TG-Group-Manager</a></td>
-    <td>Python</td>
-    <td>Telegram 群组管理工具</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/git88848/Data-Analysis-Tool">Data-Analysis-Tool</a></td>
-    <td>Python, MySQL</td>
-    <td>数据分析与可视化工具</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/git88848/Web-Scraper">Web-Scraper</a></td>
-    <td>Python</td>
-    <td>网页数据采集工具</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/git88848/API-Gateway">API-Gateway</a></td>
-    <td>PHP</td>
-    <td>API网关服务</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/git88848/Database-Manager">Database-Manager</a></td>
     <td>PHP, MySQL</td>
-    <td>数据库管理系统</td>
+    <td>趋于科技所有网络上收集的产品免费分享中心</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/git88848/Docs">Docs</a></td>
+    <td>Markdown</td>
+    <td>趋于科技所有收费产品文档中心</td>
   </tr>
 </table>
 
