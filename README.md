@@ -1,59 +1,105 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=header&text=南区%20|%20趋于科技&fontSize=30&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=Telegram工具开发专家&descAlignY=55&descSize=16&descColor=00FF00" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Python+%7C+PHP+%7C+MySQL+%7C+Telegram;黑客世界+%7C+数字宇宙+%7C+代码艺术" width="100%"/>
+<h1>
+  <span style="color:#FF6B6B;">南</span><span style="color:#4ECDC4;">区</span> | <span style="color:#FFE66D;">趋</span><span style="color:#1A535C;">于</span><span style="color:#FF6B6B;">科</span><span style="color:#4ECDC4;">技</span>
+</h1>
 
-<img src="https://github-profile-trophy.vercel.app/?username=git88848&theme=matrix&no-frame=true&row=1&column=6" width="100%"/>
+<p align="center" style="font-size:1.2em;font-weight:bold;color:#1A535C;">Telegram工具开发专家 | 探索数字宇宙的奥秘</p>
 
 <table>
-<tr>
-<td width="60%">
-
-## 项目展示
-
-| 项目名称 | 技术栈 | 描述 |
-|:-------:|:-----:|:----:|
-| [QYTMRT](https://github.com/git88848/QYTMRT) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Telegram 用户举报自动化工具 |
-| [QUYU-TG-Exporter](https://github.com/git88848/QUYU-TG-Exporter) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Telegram 数据导出工具 |
-| [Projects](https://github.com/git88848/Projects) | ![Tech](https://img.shields.io/badge/多种技术-00FF00?style=flat-square&logo=github&logoColor=black) | 趋于科技产品免费分享中心 |
-
-## 技术矩阵
-
-```
-▓█████▄  ▄▄▄     ▄▄▄█████▓ ▄▄▄       ▄▄▄▄    ▄▄▄        ██████ ▓█████ 
-▒██▀ ██▌▒████▄   ▓  ██▒ ▓▒▒████▄    ▓█████▄ ▒████▄    ▒██    ▒ ▓█   ▀ 
-░██   █▌▒██  ▀█▄ ▒ ▓██░ ▒░▒██  ▀█▄  ▒██▒ ▄██▒██  ▀█▄  ░ ▓██▄   ▒███   
-░▓█▄   ▌░██▄▄▄▄██░ ▓██▓ ░ ░██▄▄▄▄██ ▒██░█▀  ░██▄▄▄▄██   ▒   ██▒▒▓█  ▄ 
-░▒████▓  ▓█   ▓██▒ ▒██▒ ░  ▓█   ▓██▒░▓█  ▀█▓ ▓█   ▓██▒▒██████▒▒░▒████▒
- ▒▒▓  ▒  ▒▒   ▓▒█░ ▒ ░░    ▒▒   ▓▒█░░▒▓███▀▒ ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░░░ ▒░ ░
- ░ ▒  ▒   ▒   ▒▒ ░   ░      ▒   ▒▒ ░▒░▒   ░   ▒   ▒▒ ░░ ░▒  ░ ░ ░ ░  ░
- ░ ░  ░   ░   ▒    ░        ░   ▒    ░    ░   ░   ▒   ░  ░  ░     ░   
-   ░          ░  ░              ░  ░ ░            ░  ░      ░     ░  ░
- ░                                         ░                           
-```
-
-</td>
-<td width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=git88848&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117" width="100%"/>
-
-## 核心技能
-
-- **Python** - 自动化工具开发
-- **PHP** - Web应用开发
-- **MySQL** - 数据库设计与优化
-- **Telegram API** - 机器人开发
-- **Git & Docker** - 版本控制与部署
-
-## 联系方式
-
-<a href="https://t.me/Lawofforce">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-精通-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/PHP-高级-4ECDC4?style=for-the-badge&logo=php&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/MySQL-专家-FFE66D?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Telegram-API-1A535C?style=for-the-badge&logo=telegram&logoColor=white"/></td>
+  </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer&text=探索数字宇宙的奥秘&fontSize=20&fontColor=00FF00&animation=fadeIn&fontAlignY=65" width="100%"/>
+<!-- 上下分隔线 -->
+<hr style="height:3px;border:none;background:linear-gradient(to right, #FF6B6B, #4ECDC4, #FFE66D, #1A535C);margin:20px 0;">
+
+## 📊 GitHub 统计
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=git88848&show_icons=true&theme=default&hide_border=true&locale=cn" alt="统计数据"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git88848&layout=compact&theme=default&hide_border=true&locale=cn" alt="常用语言"/></td>
+  </tr>
+</table>
+
+## 🏆 GitHub 成就
+
+<img src="https://github-profile-trophy.vercel.app/?username=git88848&theme=flat&column=6&margin-w=10&no-frame=true&locale=cn" width="100%"/>
+
+## 📚 所有仓库项目
+
+<table>
+  <tr>
+    <th>项目名称</th>
+    <th>技术栈</th>
+    <th>描述</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/git88848/QYTMRT">QYTMRT</a></td>
+    <td>Python</td>
+    <td>Telegram 用户举报自动化工具</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/git88848/QUYU-TG-Exporter">QUYU-TG-Exporter</a></td>
+    <td>Python</td>
+    <td>Telegram 数据导出工具</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/git88848/Projects">Projects</a></td>
+    <td>多种技术</td>
+    <td>趋于科技产品免费分享中心</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/git88848/TG-Group-Manager">TG-Group-Manager</a></td>
+    <td>Python</td>
+    <td>Telegram 群组管理工具</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/git88848/Data-Analysis-Tool">Data-Analysis-Tool</a></td>
+    <td>Python, MySQL</td>
+    <td>数据分析与可视化工具</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/git88848/Web-Scraper">Web-Scraper</a></td>
+    <td>Python</td>
+    <td>网页数据采集工具</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/git88848/API-Gateway">API-Gateway</a></td>
+    <td>PHP</td>
+    <td>API网关服务</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/git88848/Database-Manager">Database-Manager</a></td>
+    <td>PHP, MySQL</td>
+    <td>数据库管理系统</td>
+  </tr>
+</table>
+
+## 💻 核心技能
+
+<table>
+  <tr>
+    <td>📱 自动化开发</td>
+    <td>🌐 Web应用开发</td>
+    <td>📊 数据库优化</td>
+  </tr>
+  <tr>
+    <td>🤖 Telegram API</td>
+    <td>🔄 Git版本控制</td>
+    <td>🐳 Docker部署</td>
+  </tr>
+</table>
+
+## 📫 联系方式
+
+<a href="https://t.me/Lawofforce">
+  <img src="https://img.shields.io/badge/Telegram-联系我-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 </div>
